@@ -1,0 +1,5 @@
+1.想要修改，先使用git pull
+2.修改后使用git add .
+3. git commit -m "这里填你的描述"
+4.git push结束
+python manage.py runserver 0.0.0.0:8000
